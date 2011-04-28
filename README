@@ -1,0 +1,9 @@
+This is the main repo for my project located here: http://www.joepettersson.com/css3-buttons/
+
+If you have any problems feel free to file an issue here or contact me at the above link. Feel free to fork and add a pull request if necessary!
+
+Description:
+This is a CSS3 button framework, that degrades nicely in non-compliant browsers. For more information, see the link above.
+
+License:
+Creative Commons Attribution 3.0 Unported License.
